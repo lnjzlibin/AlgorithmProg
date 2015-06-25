@@ -1,0 +1,14 @@
+package libin.algorithm.goriver;
+
+public enum ActionName {
+	ONE_MONSTER_GO,
+	TWO_MONSTER_GO,
+	ONE_MONK_GO,
+	TWO_MONK_GO,
+	ONE_MONSTER_ONE_MONK_GO,
+	ONE_MONSTER_BACK,
+	TWO_MONSTER_BACK,
+	ONE_MONK_BACK,
+	TWO_MONK_BACK,
+	ONE_MONSTER_ONE_MONK_BACK,
+}
